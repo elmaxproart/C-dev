@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asset/SourceCodePro-Italic-VariableFont_wght.ttf</file>
+        <file>asset/SourceCodePro-VariableFont_wght.ttf</file>
+    </qresource>
+</RCC>
